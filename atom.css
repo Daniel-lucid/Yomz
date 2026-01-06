@@ -1,0 +1,18 @@
+h6{
+font-size: 60px;
+justify-content: center;
+}
+img{
+    height: 550px;
+    width: 450px;
+    margin-top: -10px;
+    margin-left: 50px;
+}
+body{
+    justify-self: center;
+    justify-content: center;
+    margin-left: 350px;
+}
+p{
+    margin-top: -130px;
+}
